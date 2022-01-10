@@ -1,2 +1,2 @@
 # arduino-leonardo-badusb
-this are some badusb scripts for the arduino leonardo made by me
+these are some badusb scripts for the arduino leonardo made by me
